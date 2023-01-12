@@ -1,0 +1,489 @@
+.headerText {
+  position: absolute;
+  width: 179px;
+  height: 33px;
+  left: 117px;
+  top: 74px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 125%;
+  color: #29375f;
+}
+
+.secondary-Header {
+  position: absolute;
+  width: 190px;
+  height: 22px;
+  left: 117px;
+  top: 131px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: rgba(41, 55, 95, 0.6);
+  margin-bottom: 40px;
+}
+
+.secondary-text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: rgba(41, 55, 95, 0.6);
+}
+
+.secondaryBtn {
+  position: absolute;
+  left: 1124px;
+  top: -50px;
+  border-radius: 10px;
+}
+
+.addIconAPP {
+  margin-left: 10px;
+  border-radius: 50%;
+  background-color: #f88787;
+}
+
+.lineAPP {
+  position: absolute;
+  width: 1253px;
+  height: 1px;
+  left: 117px;
+  top: 203px;
+  background: rgba(54, 68, 105, 0.3);
+}
+
+.appointmentList {
+  position: absolute;
+  width: 1261px;
+  height: 575px;
+  left: 109px;
+  top: 308px;
+  background: #ffffff;
+  box-shadow: 0px 4px 10px #e5e6ef;
+  border-radius: 6px;
+  /* border: 2px solid blue; */
+}
+.appSearch {
+  position: absolute;
+  top: 227px;
+  left: 117px;
+}
+.appointmentList-header {
+  display: flex;
+
+  width: 1261px;
+  height: 46px;
+  left: 109px;
+  top: 268px;
+  background: #f0f4fd;
+  border-radius: 6px;
+}
+.SearchBar {
+  z-index: 1;
+  width: 300px;
+  height: 48px;
+  position: absolute;
+  /* top: 227px;
+    left: 117px; */
+
+  background: #ffffff;
+  /* border: 2px solid rgba(192, 206, 255, 0.7); */
+  border-radius: 6px;
+}
+
+.inpuText-2 {
+  cursor: pointer;
+  width: 300px;
+  height: 50px;
+  background: #ffffff;
+  border: 2px solid rgba(192, 206, 255, 0.7);
+  padding-left: 10px;
+  /* border-right: none; */
+  border-radius: 6px;
+}
+.SearchBarIcon {
+  position: absolute;
+  left: 270px;
+  right: 10.46%;
+  top: 11px;
+  bottom: 6.29%;
+  color: #c0ceff;
+  /* background: #C0CEFF; */
+}
+.TextFieldSBs {
+  position: absolute;
+  width: 300px;
+  /* Height:px; */
+  left: 350px;
+  display: flex;
+  justify-content: space-between;
+  display: flex;
+  gap: 24px;
+}
+.order-id {
+  display: flex;
+  flex-direction: column;
+  gap: 65px;
+  margin-left: 32px;
+  margin-right: 39px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #29375f;
+}
+.order-id-1 {
+  margin-top: 18px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  text-transform: uppercase;
+
+  color: rgba(41, 55, 95, 0.6);
+}
+.Patient {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  margin-left: 20px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #279af1;
+}
+.patient-1 {
+  margin-top: 18px;
+  margin-bottom: 15px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: rgba(41, 55, 95, 0.6);
+}
+
+.patient-info {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: right;
+
+  color: rgba(41, 55, 95, 0.5);
+  margin-right: 60px;
+}
+.Consultation {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  margin-left: 66px;
+}
+
+.Consultation-1 {
+  margin-top: 18px;
+
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: rgba(41, 55, 95, 0.6);
+}
+
+.Consultation-1 {
+  margin-top: 18px;
+
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: rgba(41, 55, 95, 0.6);
+}
+.upper.bb {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #29375f;
+}
+.lower {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: rgba(41, 55, 95, 0.6);
+}
+.Consultation-6 {
+  margin-top: -6px;
+}
+
+.Consultation-7 {
+  margin-top: -8px;
+}
+
+.team {
+  display: flex;
+  flex-direction: column;
+  margin-left: 62px;
+  gap: 50px;
+}
+.team-1 {
+  margin-top: 18px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: rgba(41, 55, 95, 0.6);
+}
+.team-3 {
+  margin-top: 48px;
+  margin-bottom: 43px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 135.19%;
+  color: #29375f;
+}
+.team-5 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 135.19%;
+  color: #29375f;
+}
+.doctor {
+  margin-left: 68px;
+  display: flex;
+  flex-direction: column;
+  gap: 65px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #29375f;
+}
+.doctor-1 {
+  margin-top: 18px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: rgba(41, 55, 95, 0.6);
+}
+
+.slot {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  width: 72px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #29375f;
+  margin-top: 18px;
+  margin-left: 57px;
+}
+.slot-1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+
+  text-transform: uppercase;
+
+  color: rgba(41, 55, 95, 0.6);
+}
+
+.Status {
+  display: flex;
+  flex-direction: column;
+  gap: 62px;
+  margin-top: 15px;
+  margin-left: 70px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  color: #656f8d;
+}
+
+.status-1 {
+  width: 84px;
+  height: 22px;
+
+  background: #f2f0f9;
+  border-radius: 12px;
+  padding: 3px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  /* padding-left: 4px; */
+}
+.status-1.hh {
+  /* width: 84px;
+    height: 22px; */
+  background: #f0f4fd;
+  margin-left: -15px;
+  /* background: #F2F0F9; */
+  /* border-radius: 12px; */
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  text-transform: uppercase;
+
+  color: rgba(41, 55, 95, 0.6);
+}
+
+.Invoice {
+  display: flex;
+  flex-direction: column;
+  gap: 62px;
+  margin-left: 53px;
+  margin-top: 15px;
+}
+
+.invoice-1 {
+  width: 84px;
+  height: 22px;
+
+  background: #f2f0f9;
+  border-radius: 12px;
+  padding: 3px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  color: #656f8d;
+}
+
+.invoice-1.hh {
+  width: 84px;
+  height: 22px;
+  background: #f0f4fd;
+  margin-left: -15px;
+  /* background: #F2F0F9; */
+  border-radius: 12px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  text-transform: uppercase;
+
+  color: rgba(41, 55, 95, 0.6);
+}
+
+.invoice-1.paid {
+  background: #cdffcd;
+  color: #007f00;
+}
+
+.invoice-1.unpaid {
+  background: #ffe0e0;
+  color: #d30000;
+}
+
+.Actions {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  margin-top: 18px;
+  margin-left: 32px;
+  /* margin-right: -10px; */
+}
+.actionsH {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+  margin-left: -20px;
+  text-transform: uppercase;
+
+  color: rgba(41, 55, 95, 0.6);
+}
+
+.lin1 {
+  position: absolute;
+  /* left: 7.54%; */
+  /* right: 5.26%; */
+
+  top: 147px;
+  width: 1261px;
+  height: 1px;
+  /* bottom: 200px; */
+  color: #279af1;
+  background: #bfd2f3;
+}
+.lin2 {
+  position: absolute;
+  /* left: 7.54%; */
+  /* right: 5.26%; */
+
+  top: 230px;
+  width: 1261px;
+  height: 1px;
+  /* bottom: 200px; */
+  color: #279af1;
+  background: #bfd2f3;
+}
+.lin3 {
+  position: absolute;
+  /* left: 7.54%; */
+  /* right: 5.26%; */
+
+  top: 312px;
+  width: 1261px;
+  height: 1px;
+  /* bottom: 200px; */
+  color: #279af1;
+  background: #bfd2f3;
+}
+.lin4 {
+  position: absolute;
+  /* left: 7.54%; */
+  /* right: 5.26%; */
+
+  top: 396px;
+  width: 1261px;
+  height: 1px;
+  /* bottom: 200px; */
+  color: #279af1;
+  background: #bfd2f3;
+}
+.lin5 {
+  position: absolute;
+  /* left: 7.54%; */
+  /* right: 5.26%; */
+
+  top: 480px;
+  width: 1261px;
+  height: 1px;
+  /* bottom: 200px; */
+  color: #279af1;
+  background: #bfd2f3;
+}

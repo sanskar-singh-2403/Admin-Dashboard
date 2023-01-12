@@ -1,0 +1,28 @@
+.headerComp {
+  position: absolute;
+  height: 220px;
+  width: 100%;
+  /* left: 80px; */
+  background-color: #203765;
+  z-index: -1;
+}
+
+.textArea1 {
+  padding: 40px 977px 128px 177px;
+  color: white;
+  letter-spacing: 0.6em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.text3 {
+  font-weight: 100;
+  padding-right: 22px;
+  margin: 10px;
+  letter-spacing: 0.6em;
+}
+
+.text4 {
+  padding-right: 15px;
+}

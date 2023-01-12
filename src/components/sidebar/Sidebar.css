@@ -1,0 +1,30 @@
+.sidebarComp {
+  height: 300%;
+  width: 80px;
+  position: absolute;
+  background-color: #203765;
+}
+
+.lowerBar {
+  margin-top: 220px;
+  margin-left: 26px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.iconBG {
+  border-radius: 50%;
+  background-color: #8394b8;
+}
+
+.lowerBar-icons {
+  margin-left: -29px;
+  width: 61px;
+  height: 30px;
+  border-right: 6px solid #fc6964;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  justify-content: center;
+  padding: 8px;
+}

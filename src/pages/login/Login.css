@@ -1,0 +1,131 @@
+.login-comp-1 {
+  background: #f0f4fc;
+  height: 710px;
+  width: 775px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+}
+
+.login-comp-1-text-1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 125%;
+  padding-top: 100px;
+  /* identical to box height, or 30px */
+
+  text-align: center;
+
+  color: #203765;
+}
+
+.login-comp-1-text-2 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  margin-top: 25px;
+  /* identical to box height, or 157% */
+
+  text-align: center;
+
+  color: rgba(32, 55, 101, 0.8);
+}
+
+.login-comp-1-img {
+  margin-top: 50px;
+  padding-left: 130px;
+}
+.login-comp-2-sign-in-comp {
+  position: absolute;
+  width: 249px;
+  height: 28px;
+  left: 960px;
+  top: 272px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 125%;
+  /* identical to box height, or 28px */
+
+  color: #29375f;
+}
+.login-comp-2-inp-1 {
+  height: 44px;
+  width: 294px;
+  /* left: 0px;
+    top: 0px; */
+  border-radius: 6px;
+  background: #ffffff;
+  border: 1px solid rgba(192, 206, 255, 0.7);
+  border-radius: 6px;
+  position: absolute;
+  top: 330px;
+  left: 960px;
+  padding-left: 20px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  /* or 138% */
+
+  /* color: rgba(41, 55, 95, 0.4); */
+}
+.login-comp-2-inp-2 {
+  height: 44px;
+  width: 294px;
+  /* left: 0px;
+    top: 0px; */
+  border-radius: 6px;
+  background: #ffffff;
+  border: 1px solid rgba(192, 206, 255, 0.7);
+  border-radius: 6px;
+  position: absolute;
+  top: 390px;
+  left: 960px;
+  padding-left: 20px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.login-comp-2-inp-3 {
+  height: 44px;
+  width: 260px;
+  /* left: 0px;
+    top: 0px; */
+  border-radius: 6px;
+  background: #ffffff;
+  border: 1px solid rgba(192, 206, 255, 0.7);
+  border-radius: 6px;
+  position: absolute;
+  top: 451px;
+  left: 960px;
+  padding-left: 20px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  border-right: 34px solid #f0f4fd;
+  font-style: normal;
+  font-weight: 530;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  color: #29375f;
+}
+.login-comp-2-inp-4 {
+  position: absolute;
+  top: 460px;
+  left: 1247px;
+  color: #29375fb2;
+  cursor: pointer;
+}
+.login-comp-2-inp-5 {
+  position: absolute;
+  top: -190px;
+  left: 960px;
+}
